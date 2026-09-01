@@ -7,11 +7,15 @@ This device takes any audio file and writes splice markers to the file based on 
 
 ## **[ download ] :** [morpmarker v5.1](https://mellotom.github.io/morpmarker/morpmarker-v5.1.amxd)
 
-The device is frozen — the `.amxd` is self-contained and needs nothing beside it.
-Drop it into your Ableton User Library under
-`Presets / Audio Effects / Max Audio Effect` and it will appear in Live's browser.
+**[ installation ] :** 
+Drop it into your Ableton User Library under `Presets / Audio Effects / Max Audio Effect` and it will appear in Live's browser.
 
-Requires Ableton Live 10+ with Max for Live. macOS and Windows.
+**[ operation ] :**
+Load the device onto a new audio track, place your desired audio file onto the timeline of that same track, 
+### **select the audio file and press [ process ].** 
+
+**[ system_requirements ] :**
+Requires Ableton Live 10+ with Max for Live. macOS and Windows. It's probably useful to own a morphagene as well. 
 
 The manual page has a **Save as PDF / Print** button that exports a copy matching
 the original document page for page.
