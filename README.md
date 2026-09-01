@@ -2,7 +2,7 @@
 
 Web version of the morpmarker manual for the Make Noise Morphagene.
 
-**Read it:** https://thomasevsmith.github.io/morpmarker-manual/
+**Read it:** https://mellotom.github.io/morpmarker-manual/
 
 `index.html` is the whole thing — one self-contained file with the images
 embedded. No build step, no dependencies. Open it in any browser, or hit
