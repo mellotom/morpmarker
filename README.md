@@ -1,12 +1,6 @@
 # morpmarker — manual
 
-Web version of the morpmarker manual for the Make Noise Morphagene.
+## **[ manual ] :** https://mellotom.github.io/morpmarker-manual/
 
-**Read it:** https://thomasevsmith.github.io/morpmarker-manual/
-
-`index.html` is the whole thing — one self-contained file with the images
-embedded. No build step, no dependencies. Open it in any browser, or hit
-**Save as PDF / Print** at the top of the page to export a copy that matches
-the original document page for page.
-
-To update: replace `index.html` and commit. That's it.
+morpmarker is a max4live based solution for managing reels for your morphagene. 
+This device takes any audio file and writes splice markers to the file based on information provided by ableton and settings determined by the end user.
