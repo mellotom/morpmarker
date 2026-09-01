@@ -97,19 +97,21 @@
     padding:8px;background:rgba(20,22,40,.88);color:#fff;
     font:600 12px/1 "Helvetica Neue",Helvetica,Arial,sans-serif;
   }
-  .toolbar button{
+  .toolbar button,.toolbar a.btn{
     font:inherit;color:#111;background:#CED5FF;border:0;border-radius:4px;
-    padding:7px 12px;cursor:pointer;
+    padding:7px 12px;cursor:pointer;text-decoration:none;display:inline-block;
   }
-  .toolbar button:hover{background:#fff;}
+  .toolbar button:hover,.toolbar a.btn:hover{background:#fff;}
+  .toolbar a.dl{background:#FFCCCC;}
   .toolbar span{opacity:.72;font-weight:400;}
 </style>
 </head>
 <body>
 
 <div class="toolbar">
+  <a class="btn dl" href="morpmarker-v5.1.amxd" download>Download the device &middot; v5.1</a>
   <button onclick="window.print()">Save as PDF / Print</button>
-  <span>5 pages · US Letter</span>
+  <span>Max for Live &middot; Ableton 10+ &middot; macOS &amp; Windows</span>
 </div>
 
 <!-- ============================ I ============================ -->
