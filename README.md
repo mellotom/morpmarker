@@ -1,9 +1,11 @@
 # morpmarker
 
-Splice-marker preparation for the Make Noise Morphagene, as a Max for Live device.
+morpmarker is a max4live based solution for managing reels for your morphagene.
+This device takes any audio file and writes splice markers to the file based on information provided by ableton and settings determined by the end user.
 
-**Manual:** https://mellotom.github.io/morpmarker/
-**Download:** [morpmarker v5.1](https://mellotom.github.io/morpmarker/morpmarker-v5.1.amxd)
+## **[ manual ] :** https://mellotom.github.io/morpmarker/
+
+## **[ download ] :** [morpmarker v5.1](https://mellotom.github.io/morpmarker/morpmarker-v5.1.amxd)
 
 The device is frozen — the `.amxd` is self-contained and needs nothing beside it.
 Drop it into your Ableton User Library under
