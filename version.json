@@ -1,0 +1,9 @@
+{
+    "version": "5.2",
+    "page": "https://mellotom.github.io/morpmarker/",
+    "url": "https://mellotom.github.io/morpmarker/morpmarker-v5.2.amxd",
+    "filename": "morpmarker v5.2.amxd",
+    "sha256": "bfdc3477aba762e6ca62de63f54d722dc9766aaed7e1dfdaaab9b092a8002d2a",
+    "size": 135262,
+    "notes": "adds a [ manual ] button that opens the manual in your browser"
+}
