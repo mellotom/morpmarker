@@ -5,7 +5,7 @@ This device takes any audio file and writes splice markers to the file based on 
 
 ## **[ manual ] :** https://mellotom.github.io/morpmarker/
 
-## **[ download ] :** [morpmarker v5.2](https://mellotom.github.io/morpmarker/morpmarker-v5.2.amxd)
+## **[ download ] :** [morpmarker v5.3](https://mellotom.github.io/morpmarker/morpmarker-v5.3.amxd)
 
 **[ installation ] :** 
 Drop it into your Ableton User Library under `Presets / Audio Effects / Max Audio Effect` and it will appear in Live's browser.
@@ -22,6 +22,9 @@ the original document page for page.
 
 ---
 
+v5.3 — adds an [ update available ] button. the device checks for new releases on
+load and can download and install them itself. only builds from v5.3 onward
+carry the checker.
 v5.2 — adds a [ manual ] button that opens this page in your browser.
 v5.1 — mono sources are converted to stereo automatically. The Morphagene only
 recognises stereo reels, so a mono source previously exported a file that reported

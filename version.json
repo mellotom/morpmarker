@@ -1,9 +1,9 @@
 {
-    "version": "5.2",
+    "version": "5.3",
     "page": "https://mellotom.github.io/morpmarker/",
-    "url": "https://mellotom.github.io/morpmarker/morpmarker-v5.2.amxd",
-    "filename": "morpmarker v5.2.amxd",
-    "sha256": "bfdc3477aba762e6ca62de63f54d722dc9766aaed7e1dfdaaab9b092a8002d2a",
-    "size": 135262,
-    "notes": "adds a [ manual ] button that opens the manual in your browser"
+    "url": "https://mellotom.github.io/morpmarker/morpmarker-v5.3.amxd",
+    "filename": "morpmarker v5.3.amxd",
+    "sha256": "c79ae87a06051c984e32d41be258c0fb1e4888f52c8896d5300fcef9062cfdd6",
+    "size": 149261,
+    "notes": "adds an [ update available ] button that installs new versions from within the device"
 }
