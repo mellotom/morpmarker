@@ -5,7 +5,7 @@ This device takes any audio file and writes splice markers to the file based on 
 
 ## **[ manual ] :** https://mellotom.github.io/morpmarker/
 
-## **[ download ] :** [morpmarker v5.3](https://mellotom.github.io/morpmarker/morpmarker-v5.3.amxd)
+## **[ download ] :** [morpmarker v5.4](https://mellotom.github.io/morpmarker/morpmarker-v5.4.amxd)
 
 **[ installation ] :** 
 Drop it into your Ableton User Library under `Presets / Audio Effects / Max Audio Effect` and it will appear in Live's browser.
@@ -22,6 +22,11 @@ the original document page for page.
 
 ---
 
+v5.4 — important fix. the splice marker division was ignored unless you
+clicked the division tab after loading the device, so a saved or default
+setting silently produced beat-spaced markers. also fixes the same problem on
+the blank splice tab, and clicking the output field now reveals the exported
+file reliably.
 v5.3 — adds an [ update available ] button. the device checks for new releases on
 load and can download and install them itself. only builds from v5.3 onward
 carry the checker.
