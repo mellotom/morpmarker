@@ -27,10 +27,13 @@ clicked the division tab after loading the device, so a saved or default
 setting silently produced beat-spaced markers. also fixes the same problem on
 the blank splice tab, and clicking the output field now reveals the exported
 file reliably.
+
 v5.3 — adds an [ update available ] button. the device checks for new releases on
 load and can download and install them itself. only builds from v5.3 onward
 carry the checker.
-v5.2 — adds a [ manual ] button that opens this page in your browser.
+
+v5.2 — adds a [ manual ] button that opens the morpmarker manual in your browser.
+
 v5.1 — mono sources are converted to stereo automatically. The Morphagene only
 recognises stereo reels, so a mono source previously exported a file that reported
 success and then would not load on the module.
